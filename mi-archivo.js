@@ -1,1 +1,1 @@
-console.log(‘Hola mundo’); //cometario
+console.log(‘Hola mundo’); //comentario
